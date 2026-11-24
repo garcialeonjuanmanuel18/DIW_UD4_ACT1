@@ -1,0 +1,3 @@
+Fecha y perfil/opciones: _14/11 y advertencias:todas, medio:todos y vendor extensions: default___
+componentes.css | errores/avisos iniciales: _ninguno___ | cambio o «sin cambios»: _igual___ | resultado final: __igual__
+lectura.css | errores/avisos iniciales: ___ninguno_ | cambio o «sin cambios»: _igual___ | resultado final: __igual__
